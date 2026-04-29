@@ -23,7 +23,8 @@ This project is an IoT-based system for monitoring and automating chili farming 
 - HTML/CSS
 
 ## 📊 System Architecture
-![Architecture](images/architecture.png)
+![Architecture](images/12.png)
+![Architecture](images/13.png)
 
 ## 💻 Dashboard
 ![Dashboard](images/dashboard.png)
