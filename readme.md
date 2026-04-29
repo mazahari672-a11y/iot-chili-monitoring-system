@@ -26,7 +26,7 @@ This project is an IoT-based system for monitoring and automating chili farming 
 ![Architecture](images/architecture.png)
 
 ## 💻 Dashboard
-![Dashboard](D:\laragon\www\FYP\Screenshot 2026-04-29 232958.png)
+![Dashboard](images/dashboard.png)
 
 ## 📂 Setup Instructions
 1. Clone repo
